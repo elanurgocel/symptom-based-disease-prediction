@@ -1,0 +1,21 @@
+# Python sanal ortamı
+.venv/
+venv/
+env/
+
+# Python geçici dosyaları
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter geçici dosyaları
+.ipynb_checkpoints/
+
+# Editör ve araç ayarları
+.agents/
+.vscode/
+.idea/
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
